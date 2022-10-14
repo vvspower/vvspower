@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">I'm learning full-stack development with passion to build software and contributing to open source projects. I'm constantly learning new technologies and messing around with them</h3>
+<h3 align="center">I'm learning full-stack development with passion to build software and contribute to open source projects. I'm constantly learning new technologies and messing around with them</h3>
 
 <br/>
 <br/>
