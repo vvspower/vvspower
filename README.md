@@ -1,23 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">I'm learning full-stack development with passion to build software and contribute to open source projects. I'm constantly learning new technologies and messing around with them</h3>
+<h1 >Hi 👋, I'm Mustafa</h1>
+<h3>Aspiring Software Engineer. Constantly learning.</h3>
 
-<br/>
-<br/>
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vvspower" alt="vvspower" /></a> </p>
-<br/>
-<br/>
-
-- 🔭 I’m currently working on **EduBytes**
-
-- 🌱 I’m currently learning **Full-stack Development**
-
-- 📄 Know about my experiences [tbd](tbd)
-
-- 💬 Ask me about **JavaScript React, Python**
-
-- 📫 How to reach me **mustafaahmed3401@gmail.com**
+<h4>Here's a bit about me</h4>
+<p>I'm Mustafa, from Pakistan, and I started learning to code back in August 2021. I started with the front-end but i like back-end much more. Im currently working
+on a EdTech Web Application, codenamed EduBytes. The older version is public for anybody to use as their project inspiration and stuff. I'm working on it with Flask
+but i also want to learn Django and have a firm grip on it. In the future i will probably go towards python development, whether it be back-end or AI/ML. Thank you for reading.😁</p>
 <br/>
 
 <h3 align="left">Connect with me:</h3>
